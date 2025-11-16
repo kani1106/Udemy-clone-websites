@@ -64,9 +64,6 @@ body {
     color: white;
     border-radius: 30px;
     padding: 10px;
-    flex-grow:1px;
-    flex-basis:50%
-
 }
 
 .sale-image img {
@@ -170,3 +167,4 @@ body {
 
 
 }
+
